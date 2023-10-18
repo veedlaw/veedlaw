@@ -10,6 +10,9 @@
 💻 Experienced in Python but interested in working in-depth with more technologies and languages
 <br/><br/><br/><br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### 🛠️ Technologies and Tools I use
 
