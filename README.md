@@ -11,6 +11,29 @@
 <br/><br/><br/><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+Python                   3 hrs               █████████████████████████   99.65 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+Neovim                   3 hrs               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      3 hrs               █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 20/10/2023 18:34:53 UTC
 <!--END_SECTION:waka-->
 
 
