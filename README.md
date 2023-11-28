@@ -8,6 +8,8 @@
 ⭐ Keen interest in diving deep into the software universe and learning how things work under the hood
 
 💻 Experienced in Python but interested in working in-depth with more technologies and languages
+
+📚 Currently reading: [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom
 <br/><br/><br/><br/>
 
 <!--START_SECTION:waka-->
