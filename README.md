@@ -13,7 +13,7 @@
 <br/><br/><br/><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,17 +23,18 @@
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        █████████████████████████   100.00 % 
+Python                   3 hrs 21 mins       █████████████████████████   99.93 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/01/2024 18:36:22 UTC
+ Last Updated on 29/01/2024 18:34:25 UTC
 <!--END_SECTION:waka-->
 
 
